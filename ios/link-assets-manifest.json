@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Acme-Regular.ttf",
+      "sha1": "8697187664d6dd8d3d058a590da32c7e19158413"
+    },
+    {
+      "path": "assets/fonts/ChakraPetch-Italic.ttf",
+      "sha1": "a309fd4c59e51dd800b62aa48d4632f5508d53fd"
+    },
+    {
+      "path": "assets/fonts/ChakraPetch-Medium.ttf",
+      "sha1": "47c2adf99cc286e5e2c8394185f0738878c5c504"
+    },
+    {
+      "path": "assets/fonts/ChakraPetch-Regular.ttf",
+      "sha1": "934a68bd78f594e3c6eed5258322bd4da514a22a"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Light.ttf",
+      "sha1": "869f678f03202d133387df8a2058d4d437b7c798"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Medium.ttf",
+      "sha1": "16e7e4b48d1c7fe6e1d66a49dd9bcedb5bbf0a82"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-Regular.ttf",
+      "sha1": "cde899ddf3a6086a9fed95de0f43af7826bd084b"
+    },
+    {
+      "path": "assets/fonts/JosefinSans-VariableFont_wght.ttf",
+      "sha1": "15d8cb4a07c50fc77bd192dcb7526d3c484ec855"
+    },
+    {
+      "path": "assets/fonts/NerkoOne-Regular.ttf",
+      "sha1": "16497010793175991f7ebfecd21eb091b122b9e8"
+    },
+    {
+      "path": "assets/fonts/PatrickHand-Regular.ttf",
+      "sha1": "8e9d9952d4f107775141b5ae00eeb3cac3a19d46"
+    },
+    {
+      "path": "assets/fonts/Play-Bold.ttf",
+      "sha1": "394247c9a5eeded939cf9d78b30687495b36f0dd"
+    },
+    {
+      "path": "assets/fonts/Play-Regular.ttf",
+      "sha1": "1597823ffd9c3a555b5081c7394ff0347adfbdbc"
+    }
+  ]
+}
